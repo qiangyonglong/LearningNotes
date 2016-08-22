@@ -13,7 +13,9 @@
   	* [ListView详解](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Listview详解.md)
   	* [RecyclerView和ListView的异同](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Recyclerview和Listview的异同.md)
  	* [AsyncTask源码分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Asynctask源码分析.md)
- 	* [插件化技术](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
+ 	
+    * [插件化技术概述](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
+    * [插件化技术实现](http://www.cnblogs.com/coding-way/p/4669591.html)
  	* [自定义控件](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/自定义控件.md)
  	* [事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
  	* [ANR问题](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/ANR问题.md)
