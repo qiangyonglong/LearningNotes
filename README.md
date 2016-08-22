@@ -15,10 +15,6 @@
   	* [ListView详解](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Listview详解.md)
   	* [RecyclerView和ListView的异同](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Recyclerview和Listview的异同.md)
  	* [AsyncTask源码分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Asynctask源码分析.md)
- 	
-    * [插件化技术概述](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
-    * [插件化技术的一种实现](http://www.cnblogs.com/coding-way/p/4669591.html)
-    
  	* [自定义控件](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/自定义控件.md)
  	* [事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
  	* [ANR问题](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/ANR问题.md)
@@ -30,9 +26,14 @@
  	* [Android几种进程](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android几种进程.md)
  	* [APP启动过程](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/APP启动过程.md)
  	* Activity启动流程以及界面展示过程
+ 	* [查漏补缺](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/查漏补缺.md)
+ 	* [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
  	* [图片三级缓存](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android图片中的三级缓存.md)
- 	
-    * [Bitmap的分析与使用](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Bitmap的分析与使用.md)
+        * [Bitmap的分析与使用](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Bitmap的分析与使用.md)
+ *[源码解读]
+        * [插件化技术概述](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
+        * [插件化技术的一种实现](http://www.cnblogs.com/coding-way/p/4669591.html)
+        * [插件化源码解读](http://www.tuicool.com/articles/JVfuMri)
  	* [热修复的原理](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/热修复技术.md)
  	* [AIDL](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/AIDL.md)
  	* [Binder机制](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Binder机制.md)
@@ -47,11 +48,8 @@
  	* [Android ORM 框架之 greenDAO 使用心得](http://www.open-open.com/lib/view/open1438065400878.html)
  	* [Data Binding（数据绑定）用户指南](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0606/3005.html)
  	* [RxJava](http://gank.io/post/560e15be2dca930e00da1083)
- 	* 设计一套图片异步加载缓存方案
- 	* Android UI适配
  	* [Gradle](http://wuxiaolong.me/categories/Gradle/)
- 	* [查漏补缺](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/查漏补缺.md)
- 	* [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
+ 
  	
  	
 =======
