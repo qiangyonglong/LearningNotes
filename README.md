@@ -9,6 +9,8 @@
  	* [Android内存泄漏总结](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android内存泄漏总结.md)
  	* [Handler内存泄漏分析及解决](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Handler内存泄漏分析及解决.md)
  	* [Handler、Looper、Message、MessageQueue基础流程分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/线程通信基础流程分析.md)
+ 	* [IntentService的源码解析和使用场景](http://www.tuicool.com/articles/6RfMBz)
+ 	
     * [Android性能优化](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android性能优化.md)
   	* [ListView详解](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Listview详解.md)
   	* [RecyclerView和ListView的异同](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Recyclerview和Listview的异同.md)
@@ -29,6 +31,7 @@
  	* [APP启动过程](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/APP启动过程.md)
  	* Activity启动流程以及界面展示过程
  	* [图片三级缓存](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android图片中的三级缓存.md)
+ 	
     * [Bitmap的分析与使用](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Bitmap的分析与使用.md)
  	* [热修复的原理](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/热修复技术.md)
  	* [AIDL](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/AIDL.md)
