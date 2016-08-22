@@ -29,7 +29,7 @@
  	* [查漏补缺](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/查漏补缺.md)
  	* [Git操作](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Git操作.md)
  	* [图片三级缓存](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android图片中的三级缓存.md)
-        * [Bitmap的分析与使用](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Bitmap的分析与使用.md)
+ 	* [Bitmap的分析与使用](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Bitmap的分析与使用.md)
         * [插件化技术概述](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
         * [插件化技术的一种实现](http://www.cnblogs.com/coding-way/p/4669591.html)
         * [插件化源码解读](http://www.tuicool.com/articles/JVfuMri)
